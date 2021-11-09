@@ -1,3 +1,7 @@
+def selamla():
+    print("Selam!")
+
+
 def mutlak(x):
     if x < 0:
         print(-x)
@@ -5,4 +9,5 @@ def mutlak(x):
         print(x)
 
 
+selamla()
 mutlak(-5)
